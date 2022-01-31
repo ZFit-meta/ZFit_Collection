@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #48",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/48.png",
+  "dna": "e43ae1813eebeb9278db1bf182d81eb91228c6dc",
+  "edition": 48,
+  "date": 1643644609434,
+  "attributes": [
+    {
+      "trait_type": "Face",
+      "value": "Chin"
+    },
+    {
+      "trait_type": "Gloves",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Soccer",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Uniform",
+      "value": "Green"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
